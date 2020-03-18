@@ -1,6 +1,9 @@
 #include <stdio.h>
+#include "sub.h"
 
-int sub()
+void sub()
 {
   printf("This is SUB");
+  printf("This is SUBSUB");
+  
 }
